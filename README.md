@@ -1,1 +1,7 @@
 # metasploitable2
+
+Vulnerability Assessment is the method of assessing and evaluating risks associated with network and host-based systems so that technologies and activities to mitigate business risk can be planned rationally. Vulnerability Assessment tools allow security policy customization, automated vulnerability analysis, and the creation of reports that convey security vulnerability findings and comprehensive corrective measures to all levels of an enterprise. 
+
+Host Security Configuration Assessments are important because they enable us to recognise vulnerabilities that network assessments cannot detect. These tests are the most effective way to evaluate the security of network components. The security of your company is determined by the devices you use. Individual systems/computers and servers' operating systems are also included. The majority of active host-layer hacks are allowed by improperly designed or misconfigured systems. It should be ensured that network devices are logged in legitimately and that host-level security assessments are performed. Server configuration review, patch management, and Firewall Gap Analysis are also included in the assessments. 
+
+The aim of this project is to find security problems at the network and application levels, as well as vulnerabilities in the servers and network devices that provide access to the organization. This report contains information concerning potential vulnerabilities of Metasploitable 2 and methods of exploiting it.
